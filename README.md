@@ -1,6 +1,7 @@
 # First React-Native App!
 
 - Followed Laith Academy tutorial on YouTube
+- Second screen made by me
 - Interacts with Yelp API
 
 
