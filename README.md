@@ -3,6 +3,7 @@
 - Followed Laith Academy tutorial on YouTube
 - Second screen made by me
 - Interacts with Yelp API
+- !! OLD REACT NAVIGATION STACK !!
 
 
 ![1](https://user-images.githubusercontent.com/120139042/221420350-f510ba33-cd94-4352-b3b6-7aed95d8af5a.png)
